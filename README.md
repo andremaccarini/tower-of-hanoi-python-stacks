@@ -1,2 +1,2 @@
 # towerofhanoigame
-tower of hanoi game usings stacks 
+tower of hanoi game using stacks 
